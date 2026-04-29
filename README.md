@@ -22,30 +22,26 @@
 
 <h3 align="left">Languages and Tools (that codex or claude used for developing my ideas and now GitHub Profile README Generator says that I use)</h3>
 
-<img align="left" hspace="6" alt="Arduino" width="48" height="48" src="https://skillicons.dev/icons?i=arduino" />
-<img align="left" hspace="6" alt="CSS" width="48" height="48" src="https://skillicons.dev/icons?i=css" />
-<img align="left" hspace="6" alt="Express" width="48" height="48" src="https://skillicons.dev/icons?i=express" />
-<img align="left" hspace="6" alt="HTML" width="48" height="48" src="https://skillicons.dev/icons?i=html" />
-<img align="left" hspace="6" alt="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js" />
-<img align="left" hspace="6" alt="MySQL" width="48" height="48" src="https://skillicons.dev/icons?i=mysql" />
-
-<br clear="left" />
-<br />
-
-<img align="left" hspace="6" alt="Node.js" width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" />
-<img align="left" hspace="6" alt="Python" width="48" height="48" src="https://skillicons.dev/icons?i=py" />
-<img align="left" hspace="6" alt="React" width="48" height="48" src="https://skillicons.dev/icons?i=react" />
-<img align="left" hspace="6" alt="NumPy" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" hspace="6" alt="Pandas" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" hspace="6" alt="Matplotlib" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-
-<br clear="left" />
-<br />
-
-<img align="left" hspace="6" alt="Streamlit" width="48" height="48" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
-
-<br clear="left" />
-<br />
+<table>
+  <tr>
+    <td><img alt="Arduino" width="48" height="48" src="https://skillicons.dev/icons?i=arduino" /></td>
+    <td><img alt="CSS" width="48" height="48" src="https://skillicons.dev/icons?i=css" /></td>
+    <td><img alt="Express" width="48" height="48" src="https://skillicons.dev/icons?i=express" /></td>
+    <td><img alt="HTML" width="48" height="48" src="https://skillicons.dev/icons?i=html" /></td>
+    <td><img alt="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js" /></td>
+    <td><img alt="MySQL" width="48" height="48" src="https://skillicons.dev/icons?i=mysql" /></td>
+    <td><img alt="Node.js" width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Python" width="48" height="48" src="https://skillicons.dev/icons?i=py" /></td>
+    <td><img alt="React" width="48" height="48" src="https://skillicons.dev/icons?i=react" /></td>
+    <td><img alt="NumPy" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></td>
+    <td><img alt="Pandas" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
+    <td><img alt="Matplotlib" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" /></td>
+    <td><img alt="Streamlit" width="48" height="48" src="https://cdn.simpleicons.org/streamlit/FF4B4B" /></td>
+    <td><img alt="R" width="48" height="48" src="https://skillicons.dev/icons?i=r" /></td>
+  </tr>
+</table>
 
 ---
 
