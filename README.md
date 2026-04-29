@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools (that codex or claude used for developing my ideas and now GitHub Profile README Generator says that I use)</h3>
 
 <img align="left" hspace="6" alt="Arduino" width="48" height="48" src="https://skillicons.dev/icons?i=arduino" />
 <img align="left" hspace="6" alt="CSS" width="48" height="48" src="https://skillicons.dev/icons?i=css" />
