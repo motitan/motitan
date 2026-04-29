@@ -28,6 +28,10 @@
 <img align="left" hspace="6" alt="HTML" width="48" height="48" src="https://skillicons.dev/icons?i=html" />
 <img align="left" hspace="6" alt="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js" />
 <img align="left" hspace="6" alt="MySQL" width="48" height="48" src="https://skillicons.dev/icons?i=mysql" />
+
+<br clear="left" />
+<br />
+
 <img align="left" hspace="6" alt="Node.js" width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" />
 <img align="left" hspace="6" alt="Python" width="48" height="48" src="https://skillicons.dev/icons?i=py" />
 <img align="left" hspace="6" alt="React" width="48" height="48" src="https://skillicons.dev/icons?i=react" />
